@@ -7,4 +7,3 @@
 "tfk" 
 "r et toi" 
 "r" 
-"ok" 
