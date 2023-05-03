@@ -3,3 +3,4 @@
 "slt" 
 "cv" 
 "oettoi" "oklmzer" 
+"az tie un bon" 
